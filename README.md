@@ -1,8 +1,8 @@
-#payroll_quiz_using_OOPHP
+### payroll_quiz_using_OOPHP
 The question/case study goes a follows:
 
-A payroll System case study
-A company pays its employees on a weekly basis. The employees are of four types:
+## A payroll System case study
+> A company pays its employees on a weekly basis. The employees are of four types:
 Salaried employees are paid a fixed weekly salary regardless of the nmber of hours worked, 
 Hourly employees are paid by the hour and receive overtime pay for all hours worked in excess of 40 hours
 Commission employees are paid a percentage of their sales
