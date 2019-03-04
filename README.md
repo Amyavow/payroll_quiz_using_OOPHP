@@ -1,4 +1,4 @@
-### payroll_quiz_using_OOPHP
+# payroll_quiz_using_OOPHP
 The question/case study goes a follows:
 
 ## A payroll System case study
@@ -9,7 +9,7 @@ Commission employees are paid a percentage of their sales
 and Salaried-Commission employees receive a base salary plus a percentage of their sales.
 For the current pay-period, the company has decided to reward salaried-commision employees by adding 10% to their base salaries
 
-You are to:
+> You are to:
 a. Develop and OOP solution for the case study defined above.
 b. Show all your class diagrams
 c. Implement the solution in PHP code
